@@ -32,7 +32,19 @@
         flex-shrink: 3;
     }
 
-    
+    .flx-1 {
+        margin-left: 0px;
+    }
+
+    .s2 h1 {
+        text-align: center;
+    }
+    .s3-div {
+        margin-left: 0;
+        padding-left: 0;
+        text-align: justify;
+    }
+
 
     
 }
@@ -55,6 +67,17 @@
         margin-top: 30px; 
         height: auto; 
         flex-shrink: 3;
+    }
+    .s2 h1 {
+        text-align: center;
+    }
+    .flx-1 {
+        margin-left: 0px;
+    }
+    .s3 div {
+        margin-left: 0;
+        padding-left: 0;
+        text-align: justify;
     }
 
 
